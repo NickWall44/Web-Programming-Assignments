@@ -4,3 +4,14 @@
     <h1>My First Webpage</h1>
     <h1>Nicholas Wallace</h2>
     <img src="https://www.instagram.com/p/CJg0RINB1zt/">
+  </head>
+  <body>
+    <p>During quarantine I have spent all my time working. When im not working I'm doing schoolwork. When I'm doing neither of those I like to rollerskate in my free time.</p>
+    <h2>Three things I like</h2>
+    <ul>
+      <li>Music</li>
+      <li>Tabletop Games</li>
+      <li>Cats</li>
+    </ul>
+  </body>
+</html>
