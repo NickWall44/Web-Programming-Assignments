@@ -1,0 +1,5 @@
+var userChoice;
+var randomNumber;
+var computerChoice;
+
+prompt("Heads or Tails")
